@@ -1,0 +1,12 @@
+{
+    "name": "idpass/checkersdk",
+    "license": "MIT",
+    "authors": [{
+        "name": "Olaosebikan Rotimi",
+        "email": "rotimi@myidentitypass.com"
+    }],
+    "description": "Identitypass KYC verification Widget",
+    "require": {
+        "php": ">=7.4"
+    }
+}
