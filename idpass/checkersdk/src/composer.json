@@ -11,6 +11,7 @@
         "name": "Olaosebikan Rotimi",
         "email": "rotimi@myidentitypass.com"
     }],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {}
 }
