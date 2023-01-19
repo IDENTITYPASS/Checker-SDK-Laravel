@@ -7,12 +7,10 @@
             "Idpass\\Checkersdk\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Olaosebikan Rotimi",
-            "email": "rotimi@myidentitypass.com"
-        }
-    ],
-    "minimum-stability": "dev",
+    "authors": [{
+        "name": "Olaosebikan Rotimi",
+        "email": "rotimi@myidentitypass.com"
+    }],
+    "minimum-stability": "stable",
     "require": {}
 }
