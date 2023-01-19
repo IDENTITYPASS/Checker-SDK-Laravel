@@ -41,3 +41,18 @@ Configure your credential from config/IdentitypassKYC.php published.
     "js_link" => "https://js.myidentitypay.com/v1/inline/kyc.js"
 </pre>
 </p>
+
+
+<p>
+Usage
+<code>add  @identitypass_script('name~name~ref~email') after the body tag of your page.</code>
+<pre>
+    &lt;body&gt; <br/>
+        @identitypass_script('name~name~ref~email')
+</pre>
+
+<code>add Identitypass KYC button to page</code>
+<pre>
+    @identitypass_kyc
+</pre>
+</p>
