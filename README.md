@@ -25,9 +25,6 @@ php artisan vendor:publish
 <p>
 Configure your credential from config/IdentitypassKYC.php published.
 <pre>
-    
-    //You can change to your configuration values from here
-
     // your merchant key
     "merchant_key" => "Your-Merchant-Public-Key",
 
