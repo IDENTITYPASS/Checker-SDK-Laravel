@@ -4,8 +4,6 @@
 
 <p>
    <pre>
-        <code>
-            composer require idpass/checkersdk
-        </code>
+       composer require idpass/checkersdk
    </pre>
 </p>
