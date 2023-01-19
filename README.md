@@ -3,7 +3,9 @@
 </div>
 
 <p>
-    <code>
-        composer require idpass/checkersdk
-    </code>
+   <pre>
+        <code>
+            composer require idpass/checkersdk
+        </code>
+   </pre>
 </p>
