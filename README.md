@@ -14,3 +14,10 @@
         Idpass\Checkersdk\Providers\CheckersdkProvider::class,
    </pre>
 </p>
+
+<p>
+   Publish vendor package
+   <pre>
+        php artisan vendor:publish
+   </pre>
+</p>
